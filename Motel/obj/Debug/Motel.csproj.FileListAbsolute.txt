@@ -1,0 +1,59 @@
+C:\Users\TWD_D\source\repos\Motel\Motel\bin\Debug\Motel.exe.config
+C:\Users\TWD_D\source\repos\Motel\Motel\bin\Debug\Motel.exe
+C:\Users\TWD_D\source\repos\Motel\Motel\bin\Debug\Motel.pdb
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.csprojAssemblyReference.cache
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.Properties.Resources.resources
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.csproj.GenerateResource.cache
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.csproj.CoreCompileInputs.cache
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.exe
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.pdb
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.Formularios.frmHabitaciones.resources
+C:\Users\TWD_D\source\repos\Motel\Motel\bin\Debug\MySql.Data.dll
+C:\Users\TWD_D\source\repos\Motel\Motel\bin\Debug\Google.Protobuf.dll
+C:\Users\TWD_D\source\repos\Motel\Motel\bin\Debug\MySql.Data.xml
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.csproj.CopyComplete
+C:\Users\TWD_D\source\repos\Motel\Motel\obj\Debug\Motel.Formularios.frmRegistros.resources
+G:\ALICIA\Motel\Motel\bin\Debug\Motel.exe.config
+G:\ALICIA\Motel\Motel\bin\Debug\Motel.exe
+G:\ALICIA\Motel\Motel\bin\Debug\Motel.pdb
+G:\ALICIA\Motel\Motel\bin\Debug\MySql.Data.dll
+G:\ALICIA\Motel\Motel\bin\Debug\Google.Protobuf.dll
+G:\ALICIA\Motel\Motel\bin\Debug\MySql.Data.xml
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.csprojAssemblyReference.cache
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmHabitaciones.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmProducto.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmRegistroProductos.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmRegistros.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Properties.Resources.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.csproj.GenerateResource.cache
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.csproj.CoreCompileInputs.cache
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.csproj.CopyComplete
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.exe
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.pdb
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.Login.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.Principal.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.FrmCliente.resources
+G:\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.FrmClientes.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\Motel.exe.config
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\Motel.exe
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\Motel.pdb
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\MySql.Data.dll
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\Google.Protobuf.dll
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\Renci.SshNet.dll
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\bin\Debug\MySql.Data.xml
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.csprojAssemblyReference.cache
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.FrmCliente.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.FrmClientes.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmHabitaciones.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmProducto.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmRegistroProductos.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.frmRegistros.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.Login.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Formularios.Principal.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.Properties.Resources.resources
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.csproj.GenerateResource.cache
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.csproj.CoreCompileInputs.cache
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.csproj.CopyComplete
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.exe
+C:\Users\TWD_D\OneDrive\Imágenes\COSAS DE LA ESCUELA\ARCHIVOS QUE ESTABAN EN LA MEMORIA GRIS 101119\ALICIA\Motel\Motel\obj\Debug\Motel.pdb
